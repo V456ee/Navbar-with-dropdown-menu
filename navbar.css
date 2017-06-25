@@ -41,8 +41,8 @@ body,html{
     list-style-type: none;
     background-color: rgba(61,207,255,.97);
     border-top: 5px rgb(167,138,255) solid;
-    border-bottom-left-radius: 30px;
-    border-bottom-right-radius: 30px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
     text-align: center;
 }
 
